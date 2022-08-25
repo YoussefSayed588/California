@@ -216,6 +216,9 @@ nav ul li a:hover {
     .links {
         display: none;
     }
+    .content h1 {
+        font-size: 8em;
+    }
 }
 
 @media (max-width:369px) {
